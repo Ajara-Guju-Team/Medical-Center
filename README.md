@@ -23,7 +23,7 @@ Medical Center/
 ```
 
 ## Requirements
-- **Visual Studio 2022** (or later) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-IDE-purple?style=flat-square&logo=visual-studio&logoColor=white)
+- **Visual Studio 2022** (or later)
 - **.NET Framework** (version used in the project)
 - **SQL Server** (for the database)
 
