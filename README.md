@@ -4,7 +4,7 @@
 # Medical Center Management System
 
 ## Overview
-The Medical Center Management System is a comprehensive application designed to manage operations within a medical center. It provides functionality for handling patient data, appointments, and administrative tasks. The project is implemented in C# and leverages a database for persistent storage.
+👨‍🔬 The Medical Center Management System is a comprehensive application designed to manage operations within a medical center. It provides functionality for handling patient data, appointments, and administrative tasks. The project is implemented in C# and leverages a database for persistent storage.
 
 ## Features
 - 📈 Patient record management
